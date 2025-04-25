@@ -132,6 +132,14 @@ span[class*="timestampInline_"] {
   display: block;
 }
 
-.link__972a0 {
-    transition: all 0.3s;
+.link__972a0, .searchBar_c7e907, .searchBar__97492, .childContainer__91a9d {
+  transition: all 0.3s;
+}
+
+.menu_c1e9c4, .container__2692d {
+  border-radius: 20px;
+}
+
+.searchBar_c7e907:hover, .searchBar__97492:hover {
+  border: 1px solid #888;
 }
